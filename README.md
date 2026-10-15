@@ -202,3 +202,5 @@ The current repository does not yet implement persistence wiring, migrations,
 Domain models, Product APIs/UI, authentication, AWS infrastructure, CI/CD, or
 Production deployment. These are deferred roadmap concerns rather than rejected
 directions. The Stage 3 record contains the bounded Stage 4 handoff.
+
+<img width="1672" height="941" alt="Pathwise Roadmap" src="https://github.com/user-attachments/assets/f58be9a1-5b24-43be-8177-87be55c53b6f" />
